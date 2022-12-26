@@ -1,0 +1,22 @@
+{
+    "translation": {
+        "Title": "Gizem Çebi",
+        "MetaData": {
+            "Title": {
+                "/tr/giris": "Merhabaaa",
+                "/tr/projects": "Projelerim",
+                "/tr/iletisim": "İletişim - gizemcebi.com"
+            }
+        },
+        "Menu": {
+            "Projects": "Projeler",
+            "Contact" : "İletişim"
+        },
+        "HomePage": {
+            "Information": "Merhaba, ben Gizem ve bu internet sitesi yayınladığım ilk internet sitesi oldu. Bundan dolayı biraz heycanlıyım :) "
+        },
+        "Cookies": {
+            "info": "Cookie ayarları sonra eklenecektir. :/"
+        }
+    }
+}

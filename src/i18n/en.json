@@ -1,0 +1,22 @@
+{
+    "translation": {
+        "Title": "Gizem Çebi",
+        "MetaData": {
+            "Title": {
+                "/tr/login": "Helloooo",
+                "/tr/projects": "My projects",
+                "/tr/contact": "Contact - gizemcebi.com"
+            }
+        },
+        "Menu": {
+            "Projects": "Projects",
+            "Contact" : "Contact"
+        },
+        "HomePage": {
+            "Information": "Hi, This is Gizem and this website my very first published website. Little excited :)"
+        },
+        "Cookies": {
+            "info": "Cookeies will added later. :/"
+        }
+    }
+}
