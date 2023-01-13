@@ -36,9 +36,15 @@ export function Header() {
         {/* Desktop Menu */}
         <Desktop>
           <Box bg="white" pos="fixed" top="0" w="100%" zIndex={10}>
-            <Flex>
+            <Flex
+              display="grid"
+              gridTemplateColumns="5fr 2fr 2fr 1fr 2fr 3fr 1fr"
+              alignItems="center"
+              maxW="1200px"
+              p="4"
+              m="0 auto">
               <Box p='4' justifyContent="center" padding={"30px"}>
-                <Text fontSize={"25px"} lineHeight={"2"} fontWeight="600" bg={"#FAF7F0"} borderRadius={"15px"} padding={"5px"}>
+                <Text textAlign="center" fontSize={"25px"} lineHeight={"2"} fontWeight="600" bg={"#FAF7F0"} borderRadius={"15px"} padding={"5px"}>
                   <Link to={routeWithParameters(urls.Homepage)}> Gizem Çebi</Link>
                 </Text>
               </Box>
@@ -88,7 +94,7 @@ export function Header() {
                             cursor="pointer"
                             marginRight="5px"
                             marginLeft="5px"
-                            color="#fff"
+                            color="black"
                             onClick={() => {
                               Language.change(item);
                             }}

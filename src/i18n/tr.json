@@ -13,7 +13,11 @@
             "Contact" : "İletişim"
         },
         "HomePage": {
-            "Information": "Merhaba, ben Gizem ve bu internet sitesi yayınladığım ilk internet sitesi oldu. Bundan dolayı biraz heycanlıyım :) "
+            "Information": "Merhaba, ben Gizem ve bu internet sitesi yayınladığım ilk internet sitesi oldu. Bundan dolayı biraz heycanlıyım :) ",
+            "Summary": "Üniversite son sınıf öğrencisiyim ve bir start-up'ta back end developer görevi üstlenmekteyim. Boş zamanlarımı ispanyolca ve kodlama öğrenerek geçiriyorum."
+        },
+        "Contact": {
+            "Title": "İletişim"
         },
         "Cookies": {
             "info": "Cookie ayarları sonra eklenecektir. :/"

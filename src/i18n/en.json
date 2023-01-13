@@ -13,7 +13,11 @@
             "Contact" : "Contact"
         },
         "HomePage": {
-            "Information": "Hi, This is Gizem and this website my very first published website. Little excited :)"
+            "Information": "Hi, My name is Gizem and this website my very first published website. Little excited :)",
+            "Summary": "I am a senior year computer engineering student and currently I am working as a backend engineer at a start-up company. I am learning Spanish in my leisure time and trying to improve my coding skills."
+        },
+        "Contact": {
+            "Title": "Contact"
         },
         "Cookies": {
             "info": "Cookeies will added later. :/"

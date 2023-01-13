@@ -17,12 +17,13 @@ export function Information() {
                     flexDirection="column"
                     alignItems="center"
                     padding={"10em"}
+                    w="50%"
                 >
-                    <Text as="h1" fontSize="4xl" fontWeight="800" mt="20" justifyContent={"center"}>
+                    <Text as="h1" fontSize="2xl" fontWeight="800" mt="20" w="100%" lineHeight="1">
                         <Trans i18nKey="HomePage.Information" />
                     </Text>
-                    <Text as="h1" fontSize="5xl" lineHeight="2" mt="5" padding={"5em"} fontWeight="800">
-                        Burası güncellenecek
+                    <Text as="h1" fontSize="1xl" lineHeight="2" mt="5" padding={"2em"} fontWeight="800" w="100%">
+                        <Trans i18nKey="HomePage.Summary" />
                     </Text>
                 </Flex>
             </Flex>
