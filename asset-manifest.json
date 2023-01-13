@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://gizemcebi.com/static/js/main.88dc777a.js",
-    "static/js/141.de0ff8e2.chunk.js": "https://gizemcebi.com/static/js/141.de0ff8e2.chunk.js",
+    "main.js": "https://gizemcebi.com/static/js/main.7cb267ee.js",
+    "static/js/141.5d00c516.chunk.js": "https://gizemcebi.com/static/js/141.5d00c516.chunk.js",
     "static/js/97.76d48adb.chunk.js": "https://gizemcebi.com/static/js/97.76d48adb.chunk.js",
     "static/js/404.6129b694.chunk.js": "https://gizemcebi.com/static/js/404.6129b694.chunk.js",
     "static/js/728.7778c652.chunk.js": "https://gizemcebi.com/static/js/728.7778c652.chunk.js",
     "index.html": "https://gizemcebi.com/index.html",
-    "main.88dc777a.js.map": "https://gizemcebi.com/static/js/main.88dc777a.js.map",
-    "141.de0ff8e2.chunk.js.map": "https://gizemcebi.com/static/js/141.de0ff8e2.chunk.js.map",
+    "main.7cb267ee.js.map": "https://gizemcebi.com/static/js/main.7cb267ee.js.map",
+    "141.5d00c516.chunk.js.map": "https://gizemcebi.com/static/js/141.5d00c516.chunk.js.map",
     "97.76d48adb.chunk.js.map": "https://gizemcebi.com/static/js/97.76d48adb.chunk.js.map",
     "404.6129b694.chunk.js.map": "https://gizemcebi.com/static/js/404.6129b694.chunk.js.map",
     "728.7778c652.chunk.js.map": "https://gizemcebi.com/static/js/728.7778c652.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.88dc777a.js"
+    "static/js/main.7cb267ee.js"
   ]
 }
