@@ -97,6 +97,7 @@ export function Header() {
                             color="black"
                             onClick={() => {
                               Language.change(item);
+                              window.location.reload();
                             }}
                         >
                           {item.toUpperCase()}
