@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/website.github.io/static/js/main.14ef1b33.js",
-    "static/js/141.8d1fc793.chunk.js": "/website.github.io/static/js/141.8d1fc793.chunk.js",
-    "static/js/97.1f462625.chunk.js": "/website.github.io/static/js/97.1f462625.chunk.js",
-    "static/js/736.846470ab.chunk.js": "/website.github.io/static/js/736.846470ab.chunk.js",
-    "index.html": "/website.github.io/index.html",
-    "main.14ef1b33.js.map": "/website.github.io/static/js/main.14ef1b33.js.map",
-    "141.8d1fc793.chunk.js.map": "/website.github.io/static/js/141.8d1fc793.chunk.js.map",
-    "97.1f462625.chunk.js.map": "/website.github.io/static/js/97.1f462625.chunk.js.map",
-    "736.846470ab.chunk.js.map": "/website.github.io/static/js/736.846470ab.chunk.js.map"
+    "main.js": "https://gizemcebi.com/static/js/main.630a5c93.js",
+    "static/js/141.8d1fc793.chunk.js": "https://gizemcebi.com/static/js/141.8d1fc793.chunk.js",
+    "static/js/97.1f462625.chunk.js": "https://gizemcebi.com/static/js/97.1f462625.chunk.js",
+    "static/js/736.846470ab.chunk.js": "https://gizemcebi.com/static/js/736.846470ab.chunk.js",
+    "index.html": "https://gizemcebi.com/index.html",
+    "main.630a5c93.js.map": "https://gizemcebi.com/static/js/main.630a5c93.js.map",
+    "141.8d1fc793.chunk.js.map": "https://gizemcebi.com/static/js/141.8d1fc793.chunk.js.map",
+    "97.1f462625.chunk.js.map": "https://gizemcebi.com/static/js/97.1f462625.chunk.js.map",
+    "736.846470ab.chunk.js.map": "https://gizemcebi.com/static/js/736.846470ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.14ef1b33.js"
+    "static/js/main.630a5c93.js"
   ]
 }
