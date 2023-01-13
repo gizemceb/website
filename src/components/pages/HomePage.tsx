@@ -8,10 +8,15 @@ export default function Homepage() {
         <Box pos="fixed" w="100%">
 
            <Box
+               alignItems={{ base: "center" }}
                backgroundImage={`url("/assets/images/flowers.png")`}
+               backgroundPosition={"center"}
                w="100%"
                h={{ base: "300px", lg: "2500px" }}
-               backgroundSize="cover">
+               backgroundSize="cover"
+               backgroundRepeat={"no-repeat"}
+               backgroundAttachment={"fixed"}
+               marginTop={"-70px"}>
 
            <Information />
            </Box>
