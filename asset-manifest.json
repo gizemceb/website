@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://gizemcebi.com/static/js/main.7cb267ee.js",
-    "static/js/141.5d00c516.chunk.js": "https://gizemcebi.com/static/js/141.5d00c516.chunk.js",
+    "main.js": "https://gizemcebi.com/static/js/main.ec53f99e.js",
+    "static/js/747.bfc7c5f9.chunk.js": "https://gizemcebi.com/static/js/747.bfc7c5f9.chunk.js",
     "static/js/97.76d48adb.chunk.js": "https://gizemcebi.com/static/js/97.76d48adb.chunk.js",
-    "static/js/404.6129b694.chunk.js": "https://gizemcebi.com/static/js/404.6129b694.chunk.js",
-    "static/js/728.7778c652.chunk.js": "https://gizemcebi.com/static/js/728.7778c652.chunk.js",
+    "static/js/203.b6c81755.chunk.js": "https://gizemcebi.com/static/js/203.b6c81755.chunk.js",
+    "static/js/548.7305efe3.chunk.js": "https://gizemcebi.com/static/js/548.7305efe3.chunk.js",
     "index.html": "https://gizemcebi.com/index.html",
-    "main.7cb267ee.js.map": "https://gizemcebi.com/static/js/main.7cb267ee.js.map",
-    "141.5d00c516.chunk.js.map": "https://gizemcebi.com/static/js/141.5d00c516.chunk.js.map",
+    "main.ec53f99e.js.map": "https://gizemcebi.com/static/js/main.ec53f99e.js.map",
+    "747.bfc7c5f9.chunk.js.map": "https://gizemcebi.com/static/js/747.bfc7c5f9.chunk.js.map",
     "97.76d48adb.chunk.js.map": "https://gizemcebi.com/static/js/97.76d48adb.chunk.js.map",
-    "404.6129b694.chunk.js.map": "https://gizemcebi.com/static/js/404.6129b694.chunk.js.map",
-    "728.7778c652.chunk.js.map": "https://gizemcebi.com/static/js/728.7778c652.chunk.js.map"
+    "203.b6c81755.chunk.js.map": "https://gizemcebi.com/static/js/203.b6c81755.chunk.js.map",
+    "548.7305efe3.chunk.js.map": "https://gizemcebi.com/static/js/548.7305efe3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7cb267ee.js"
+    "static/js/main.ec53f99e.js"
   ]
 }
