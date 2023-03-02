@@ -17,7 +17,13 @@
             "Summary": "Üniversite son sınıf öğrencisiyim ve bir start-up'ta back end developer görevi üstlenmekteyim. Boş zamanlarımı ispanyolca ve kodlama öğrenerek geçiriyorum."
         },
         "Contact": {
-            "Title": "İletişim"
+            "Title": "İletişim",
+            "Message": "Benimle iletişime geçmek isterseniz aşağıdaki formu doldurabilirsiniz. En kısa sürede dönüş yapmaya çalışacağım :)",
+            "Email": "Mail",
+            "FirstName": "İsim",
+            "LastName": "Soyisim",
+            "Send": "Gönder",
+            "MailMessage": "Mesaj"
         },
         "Cookies": {
             "info": "Cookie ayarları sonra eklenecektir. :/"

@@ -42,7 +42,8 @@ export function Header() {
               alignItems="center"
               maxW="1200px"
               p="4"
-              m="0 auto">
+              m="0 auto"
+              paddingLeft={"10em"}>
               <Box p='4' justifyContent="center" padding={"30px"}>
                 <Text textAlign="center" fontSize={"25px"} lineHeight={"2"} fontWeight="600" bg={"#FAF7F0"} borderRadius={"15px"} padding={"5px"}>
                   <Link to={routeWithParameters(urls.Homepage)}> Gizem Çebi</Link>

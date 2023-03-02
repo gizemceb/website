@@ -17,7 +17,13 @@
             "Summary": "I am a senior year computer engineering student and currently I am working as a backend engineer at a start-up company. I am learning Spanish in my leisure time and trying to improve my coding skills."
         },
         "Contact": {
-            "Title": "Contact"
+            "Title": "Contact",
+            "Message": "If you would like to connect with me send an email via the from. I will reach you back as soon as possible :)",
+            "Email": "Email",
+            "FirstName": "FirstName",
+            "LastName": "LastName",
+            "Send": "Send",
+            "MailMessage": "Message"
         },
         "Cookies": {
             "info": "Cookeies will added later. :/"

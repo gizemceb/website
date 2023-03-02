@@ -79,7 +79,7 @@ function App() {
             <BrowserRouter>
                 <ThemeProvider theme={customTheme}>
                     <CSSReset />
-                    <Switch>{renderRoutes()} </Switch>
+                    {renderRoutes()}
                 </ThemeProvider>
             </BrowserRouter>
         </React.Suspense>
