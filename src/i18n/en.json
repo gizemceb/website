@@ -23,7 +23,10 @@
             "FirstName": "FirstName",
             "LastName": "LastName",
             "Send": "Send",
-            "MailMessage": "Message"
+            "MailMessage": "Message",
+            "PositionTitle": "Software Engineer",
+            "EmailAddress": "gizem.cebi@hotmail.com",
+            "Info": "My Contact Information:"
         },
         "Cookies": {
             "info": "Cookeies will added later. :/"

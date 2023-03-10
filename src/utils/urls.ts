@@ -11,9 +11,9 @@ export const urlsTR = {
 
 export const urlsEN = {
     Homepage: "/",
-    Login: "/tr/login",
-    Projects: "/tr/projects",
-    Contact: "/tr/contact",
+    Login: "/en/login",
+    Projects: "/en/projects",
+    Contact: "/en/contact",
 };
 
 export const urlsOut = {

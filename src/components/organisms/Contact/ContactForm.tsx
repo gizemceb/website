@@ -39,8 +39,6 @@ export default function ContactForm() {
             <Box
                 width="100%"
                 height={"30em"}
-                border='1px'
-                borderColor='gray.200'
                 position={"relative"}>
             <Flex>
                 <Text

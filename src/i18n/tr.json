@@ -23,7 +23,10 @@
             "FirstName": "İsim",
             "LastName": "Soyisim",
             "Send": "Gönder",
-            "MailMessage": "Mesaj"
+            "MailMessage": "Mesaj",
+            "PositionTitle": "Yazılım Mühendisi",
+            "EmailAddress": "gizem.cebi@hotmail.com",
+            "Info": "İletişim adreslerim:"
         },
         "Cookies": {
             "info": "Cookie ayarları sonra eklenecektir. :/"
